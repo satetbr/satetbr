@@ -22,6 +22,6 @@ Curto construir soluções práticas e automatizações — do **mobile** ao **b
 - **projeto-arduino** — códigos/testes e exemplos com Arduino (C++)  
   https://github.com/satetbr/projeto-arduino
   
-  - **bigdata** — Projeto de Power BI que transforma dados do Censo 2010 em um dashboard para apoiar a prospeccao de clientes da empresa de cursos preparatorios  
+- **bigdata** — Projeto de Power BI que transforma dados do Censo 2010 em um dashboard para apoiar a prospeccao de clientes da empresa de cursos preparatorios  
   https://github.com/satetbr/projeto-arduino
 
