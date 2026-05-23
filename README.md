@@ -1,16 +1,23 @@
-### Olá :) 👋
+# Olá, eu sou o Matheus Filipe
 
-<!--
-**satetbr/satetbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante/desenvolvedor em transição e estou **em busca da minha primeira oportunidade na área**.  
+Curto construir soluções práticas e automatizações — do **mobile** ao **back-end/automação**, incluindo **OCR** e **scripts para rotinas administrativas**.
 
-Here are some ideas to get you started:
+## Projetos
+- **cartorio-ocr** — pipeline de automação via OCR para extração em lote e auditoria de registros civis  
+  https://github.com/satetbr/cartorio-ocr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **scripts-cartorio** — automatizações em JavaScript para rotinas de cartório  
+  https://github.com/satetbr/scripts-cartorio
+
+- **macros-cartorio** — macros em AutoHotkey (atalhos e automação de tarefas repetitivas)  
+  https://github.com/satetbr/macros-cartorio
+
+- **unibe-app** — app mobile para estudantes (React Native + Firebase)  
+  https://github.com/satetbr/unibe-app
+
+- **barber-agenda** — app de agendamentos para barbearia (Java + SQLite)  
+  https://github.com/satetbr/barber-agenda
+
+- **projeto-arduino** — códigos/testes e exemplos com Arduino (C++)  
+  https://github.com/satetbr/projeto-arduino
